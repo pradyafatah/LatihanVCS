@@ -70,7 +70,8 @@ klik repository yg anda buat
 ![contoh 5](![posting - Imgur](https://github.com/user-attachments/assets/b644f4b0-4ca7-4434-8541-78957319fbd7)
 )
 lalu klik klik clone or download
-![contoh 6](https://i.imgur.com/52fWijn.png)
+![contoh 6](![copy or download - Imgur](https://github.com/user-attachments/assets/def8c62e-fa57-42ce-ba7c-3ec6087a0db3)
+)
 lalu ketik :
 ```
 $ git push -u origin master
