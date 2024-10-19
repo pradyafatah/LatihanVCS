@@ -58,7 +58,8 @@ setelah itu commit dengan cara :
 $ git commit -m "komentar"
 ```
 contohnya seperti ini:
-![contoh 4](https://i.imgur.com/vDyzNN2.png)
+![contoh 4](![git - Imgur (3)](https://github.com/user-attachments/assets/5e0ac3bb-5ad1-45cb-b70e-3bff8e8b2b67)
+)
 lalu ketik:
 ```
 $ git remote add origin "link url repository di github"
@@ -66,7 +67,8 @@ $ git remote add origin "link url repository di github"
 contoh bisa dilihat di gambar sebelumnya
 untuk mendapatkan link repository yg anda buat anda tinggal ke akun github anda
 klik repository yg anda buat
-![contoh 5](https://i.imgur.com/mHEcVq5.png)
+![contoh 5](![posting - Imgur](https://github.com/user-attachments/assets/b644f4b0-4ca7-4434-8541-78957319fbd7)
+)
 lalu klik klik clone or download
 ![contoh 6](https://i.imgur.com/52fWijn.png)
 lalu ketik :
