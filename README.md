@@ -33,12 +33,13 @@ lalu ketik command:
 $ git config --list
 ```
 maka akan muncul seperti ini:
-![contoh 2](![git - Imgur (1)](https://github.com/user-attachments/assets/387411e9-e20a-4f71-ac8c-6fb6b25cf133)
-)
+![contoh 2](![git - Imgur (1)](https://github.com/user-attachments/assets/387411e9-e20a-4f71-ac8c-6fb6b25cf133))
+
+
 jika username dan email terisi sesuai yg anda ketik berarti berhasil
 lalu buat folder untuk tempat menyimpan repository local di komputer anda dengan cara buat new folder di tempat yg anda suka contohnya:
-![contoh 3](![gitt - Imgur](https://github.com/user-attachments/assets/f0958cc4-f3ce-46d0-9c25-1bd673c54ee8)
-)
+![contoh 3](![gitt - Imgur](https://github.com/user-attachments/assets/f0958cc4-f3ce-46d0-9c25-1bd673c54ee8))
+
 saya membuat folder "latihanvcs" di drive D
 lalu klik kanan dan pilih "git bash here"
 lalu ketik command:
@@ -58,8 +59,8 @@ setelah itu commit dengan cara :
 $ git commit -m "komentar"
 ```
 contohnya seperti ini:
-![contoh 4](![git - Imgur (3)](https://github.com/user-attachments/assets/5e0ac3bb-5ad1-45cb-b70e-3bff8e8b2b67)
-)
+![contoh 4](![git - Imgur (3)](https://github.com/user-attachments/assets/5e0ac3bb-5ad1-45cb-b70e-3bff8e8b2b67))
+
 lalu ketik:
 ```
 $ git remote add origin "link url repository di github"
@@ -67,11 +68,13 @@ $ git remote add origin "link url repository di github"
 contoh bisa dilihat di gambar sebelumnya
 untuk mendapatkan link repository yg anda buat anda tinggal ke akun github anda
 klik repository yg anda buat
-![contoh 5](![posting - Imgur](https://github.com/user-attachments/assets/b644f4b0-4ca7-4434-8541-78957319fbd7)
-)
-lalu klik klik clone or download
-![contoh 6](![copy or download - Imgur](https://github.com/user-attachments/assets/def8c62e-fa57-42ce-ba7c-3ec6087a0db3)
-)
+![contoh 5](![posting - Imgur](https://github.com/user-attachments/assets/b644f4b0-4ca7-4434-8541-78957319fbd7))
+
+
+lalu klik klik copy or download
+![contoh 6](![copy or download - Imgur](https://github.com/user-attachments/assets/def8c62e-fa57-42ce-ba7c-3ec6087a0db3))
+
+
 lalu ketik :
 ```
 $ git push -u origin master
