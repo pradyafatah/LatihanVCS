@@ -69,8 +69,9 @@ untuk mendapatkan link repository yg anda buat anda tinggal ke akun github anda
 klik repository yg anda buat
 ![contoh 5](![posting - Imgur](https://github.com/user-attachments/assets/b644f4b0-4ca7-4434-8541-78957319fbd7)
 )
-lalu klik klik clone or download
-![contoh 6](https://i.imgur.com/52fWijn.png)
+lalu klik klik copy or download
+![contoh 6](![copy or download - Imgur](https://github.com/user-attachments/assets/646c3d25-59f8-425a-ac13-6e7d2f496864)
+)
 lalu ketik :
 ```
 $ git push -u origin master
