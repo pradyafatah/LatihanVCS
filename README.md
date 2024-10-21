@@ -6,7 +6,7 @@ siapkan software bernama "git" bisa di download di website resmi https://git-scm
 
 ### installasi
 jalankan setup git yang didownload dan akan muncul jendela seperti ini :
-![jendela install](![home - Imgur](![git - Imgur](https://github.com/user-attachments/assets/cd8788bc-d93c-4aa8-bbdc-b45a4f77931e))
+![jendela install](![git - Imgur](https://github.com/user-attachments/assets/cd8788bc-d93c-4aa8-bbdc-b45a4f77931e))
 klik next saja sampai selesai dan install
 
 ## 2. Membuat akun Github
